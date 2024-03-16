@@ -7,7 +7,7 @@ Hi 👋, I'm André
 
 📫 How to reach me: andresampaio227@gmail.com
 
-⚡ Fun fact I hate to love Corinthians
+⚡ Fun fact: I climb rocks!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
