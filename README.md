@@ -1,7 +1,7 @@
 Hi 👋, I'm André
 #### I'm currently a  automation engineering student at IMT (Instituto Mauá de Tecnologia) on my Senior Year.
 
-🌱 I’m currently learning Streamlit (Data Science), Computer Vision and FastAPI.
+🌱 I’m currently learning Computer Vision.
 
 💬 Ask me about Deep Learning in general: PyTorch, CNN, Training Models, Machine Learning.
 
